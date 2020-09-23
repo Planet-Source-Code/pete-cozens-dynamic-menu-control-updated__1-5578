@@ -1,0 +1,13 @@
+"!1","","Flintstones",#TRUE#
+"!2","!1","Fred",#FALSE#
+"!3","!1","Wilma",#FALSE#
+"!4","!1","-",#FALSE#
+"!5","!1","Pebbles",#FALSE#
+"!6","","Rubble",#TRUE#
+"!7","!6","Barney",#FALSE#
+"!8","!6","Betty",#FALSE#
+"!9","!6","-",#FALSE#
+"!10","!6","Bam-Bam",#FALSE#
+"!11","","Bedrock Town Map",#FALSE#
+"!21","!1","-",#FALSE#
+"!22","!1","Another Menu Item",#FALSE#
